@@ -1,5 +1,5 @@
 def suma(a: int, b: int) -> int:
-    print("suma")
+    return (a + b)
 
 def resta(a: int, b: int) -> int:
-    print("resta")
+    return (a - b)
